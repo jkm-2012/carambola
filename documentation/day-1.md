@@ -1,5 +1,5 @@
 # Day 1 - my carambola arrived
-Last week I read an article about [Carambola](http://www.8devices.com/product/3/carambola, "Carambola"), a tiny small [MIPS](http://en.wikipedia.org/wiki/MIPS_architecture,"MIPS on Wikipedia") based mini computer. I read this article in german famous computer magazine [CT](http://www.heise.de/ct/inhalt/2012/20/80/,"Link to article").
+Last week I read an article about [Carambola](http://www.8devices.com/product/3/carambola "Carambola"), a tiny small [MIPS](http://en.wikipedia.org/wiki/MIPS_architecture "MIPS on Wikipedia") based mini computer. I read this article in german famous computer magazine [CT](http://www.heise.de/ct/inhalt/2012/20/80/ "Link to article").
 
 So I considered a few days and finally after I ordered one Carambola with the developer board on Wednesday. Ordering process was very easy, just enter your adress and pay with Paypal. Finally the whole order was about 55 Euro including delivery cost and VAT, so a fair price for my new nerd toy. 
 
